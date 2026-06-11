@@ -1,4 +1,4 @@
-# Ultimate Git Cheat Sheet
+# Git Cheat Sheet
 🚀 The ultimate Git cheat sheet covering beginner to advanced commands, workflows, branching, rebasing, conflict resolution, and GitHub best practices.
 
 MIT License - Free to use, share, and improve.
